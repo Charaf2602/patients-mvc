@@ -10,6 +10,7 @@ import javax.validation.constraints.DecimalMin;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Size;
 import java.util.Date;
+//Entité Patient
 @Entity
 @Data @AllArgsConstructor @NoArgsConstructor
 public class Patient {
